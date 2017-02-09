@@ -1,0 +1,11 @@
+Technical Credit
+Recently I’ve been gratified to read a couple of well-argued, nuanced assessments of the risks and advantages of the strategic accrual of technical debt: Joe Xavier’s "How to Make Debt Pay", on TechCrunch, and Harry Roberts’s "We Need to Talk About Technical Debt", over at the seasonally themed 24 Ways blog. These articles provide concrete examples of the utility of debt, making it clear that the issue of technical debt isn’t nearly as simple as “debt = bad”. (Although bad code, which isn’t the same thing as technical debt, does indeed simply “equal bad”.)
+
+I’d like to extend the financial analogy a bit and talk in terms of technical credit, which senior Red Hat developer Jeff Darcy has described as “a library of solved problems”. In the context of Harry’s scenario concerning a CSS theming system, an example of Jeff’s conception of technical credit might be a couple of specced-out and half-built ideas for such a system. These code snippets are “in the bank”, as it were, and so are ready to be developed into a fully-built feature when the customer hands down their ultimatum.
+
+At Axure, we're always keen to find opportunities for building technical credit into a project. For some examples and further general pontification on the subject, head over to the (newly redesigned!) Axure blog.
+
+
+
+Thanks for reading,
+Kip
